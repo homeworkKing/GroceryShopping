@@ -1,9 +1,6 @@
 # GroceryShopping
 
 ## Prerequisite
-1. Install JavaEE
-   Link: https://www.eclipse.org/
-2. Install postman
-   Link: https://www.postman.com/
-3. Install Tomcat8
-   Link: https://tomcat.apache.org/download-80.cgi
+* Install [JavaEE](https://www.eclipse.org/)
+* Install [postman](https://www.postman.com/)
+* Install [Tomcat8](https://tomcat.apache.org/download-80.cgi)
